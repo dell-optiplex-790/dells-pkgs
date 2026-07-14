@@ -1,0 +1,21 @@
+[
+    {
+        "name": "rescmode",
+        "version": 1.0,
+        "friendlyName": "Rescue Mode",
+        "description": "A scriptable alternative to the Windows 96 recovery mode",
+        "author": "dell-optiplex-790",
+        "category": "libraries",
+        "feature_requirements": [],
+        "depends": [],
+        "installedSize": 1.79,
+        "downloadSize": 1.98,
+        "min_os_version": 300000,
+        "max_os_version": 9999999999,
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/rescmode/icon16.png",
+            "32x32": "$REPO_PATH$/rescmode/icon32.png"
+        },
+        "packageRoot": "$REPO_PATH$/rescmode"
+    }
+]
