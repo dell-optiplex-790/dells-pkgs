@@ -1,5 +1,0 @@
-w96.ui.MsgBoxSimple.info('Rescue Mode', 'You are currently in the so-called "rescue mode". It behaves similarly to the real recovery mode.', 'OK').dlg.wait().then(() => {
-    w96.ui.MsgBoxSimple.info('Rescue Mode', 'If you would like to use it, put your code inside of a file named "C:/.rescue".', 'Reboot').dlg.wait().then(() => {
-        w96.sys.reboot();
-    });
-});
