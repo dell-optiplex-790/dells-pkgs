@@ -27,8 +27,8 @@
         "category": "utility",
         "feature_requirements": [],
         "depends": [],
-        "installedSize": 5007,
-        "downloadSize": 3031,
+        "installedSize": 5048,
+        "downloadSize": 3625,
         "min_os_version": 300000,
         "max_os_version": 9999999999,
         "iconFiles": {
