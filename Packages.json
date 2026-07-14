@@ -8,8 +8,8 @@
         "category": "libraries",
         "feature_requirements": [],
         "depends": [],
-        "installedSize": 1.79,
-        "downloadSize": 1.98,
+        "installedSize": 1833,
+        "downloadSize": 1956,
         "min_os_version": 300000,
         "max_os_version": 9999999999,
         "iconFiles": {
@@ -17,5 +17,24 @@
             "32x32": "$REPO_PATH$/rescmode/icon32.png"
         },
         "packageRoot": "$REPO_PATH$/rescmode"
+    },
+    {
+        "name": "emrt",
+        "version": 1.0,
+        "friendlyName": "Emergency Malware Removal Tool",
+        "description": "The first(?) effective automatic malware removal tool for Windows 96.",
+        "author": "dell-optiplex-790",
+        "category": "utility",
+        "feature_requirements": [],
+        "depends": [],
+        "installedSize": 5007,
+        "downloadSize": 3031,
+        "min_os_version": 300000,
+        "max_os_version": 9999999999,
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/emrt/icon16.png",
+            "32x32": "$REPO_PATH$/emrt/icon32.png"
+        },
+        "packageRoot": "$REPO_PATH$/emrt"
     }
 ]
