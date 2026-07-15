@@ -20,15 +20,15 @@
     },
     {
         "name": "emrt",
-        "version": 1.0,
+        "version": 1.1,
         "friendlyName": "Emergency Malware Removal Tool",
         "description": "The first(?) effective automatic malware removal tool for Windows 96.",
         "author": "dell-optiplex-790",
         "category": "utility",
         "feature_requirements": [],
         "depends": [],
-        "installedSize": 5048,
-        "downloadSize": 3625,
+        "installedSize": 20480,
+        "downloadSize": 12800,
         "min_os_version": 300000,
         "max_os_version": 9999999999,
         "iconFiles": {
