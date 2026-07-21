@@ -46,7 +46,7 @@
         "category": "system",
         "feature_requirements": [],
         "depends": [],
-        "installedSize": 0,
+        "installedSize": 51200,
         "downloadSize": 17408,
         "min_os_version": 300000,
         "max_os_version": 9999999999,
