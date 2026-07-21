@@ -36,5 +36,24 @@
             "32x32": "$REPO_PATH$/emrt/icon32.png"
         },
         "packageRoot": "$REPO_PATH$/emrt"
+    },
+    {
+        "name": "drvshrink",
+        "version": 1,
+        "friendlyName": "DriveShrink",
+        "description": "Uses GZIP, KINJECT.js and some monkey-patching to compress every file on the system while keeping it functional.",
+        "author": "dell-optiplex-790",
+        "category": "system",
+        "feature_requirements": [],
+        "depends": [],
+        "installedSize": 0,
+        "downloadSize": 17408,
+        "min_os_version": 300000,
+        "max_os_version": 9999999999,
+        "iconFiles": {
+            "16x16": "$REPO_PATH$/drvshrink/icon16.png",
+            "32x32": "$REPO_PATH$/drvshrink/icon32.png"
+        },
+        "packageRoot": "$REPO_PATH$/drvshrink"
     }
 ]
